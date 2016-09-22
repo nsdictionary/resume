@@ -1,0 +1,85 @@
+{
+"getAppInfo" :
+	"@recordObject@ SELECT ios_version, and_version, ios_url, and_url FROM apps WHERE prefix=@prefix:apps.prefix@",
+
+"getAppVersion" :
+	"@recordObject@ SELECT ios_version, and_version FROM apps WHERE prefix=@prefix:apps.prefix@",
+
+"setAppVersion" :
+	"UPDATE apps SET update_time=@time:apps.update_time@, ios_version=@ios_version:apps.ios_version@, and_version=@and_version:apps.and_version@
+	WHERE prefix=@prefix:apps.prefix@",
+
+"setIosAppVersion":
+	"UPDATE apps SET ios_update_time=@time:apps.ios_update_time@, ios_version=@ios_version:apps.ios_version@
+	WHERE prefix=@prefix:apps.prefix@",
+
+"setAndAppVersion":
+	"UPDATE apps SET and_update_time=@time:apps.and_update_time@, and_version=@and_version:apps.and_version@
+	WHERE prefix=@prefix:apps.prefix@",
+
+"uploadImageNotice" :
+	"INSERT INTO imageNotices (app_prefix, img_url, created, action_url, action_type) VALUES (
+	@app_prefix:imageNotices.app_prefix@,
+	@img_url:imageNotices.img_url@,
+	@created:imageNotices.created@,
+	@action_url:imageNotices.action_url@,
+	@action_type:imageNotices.action_type@
+	)",
+
+"getAppPrefix" :
+	"@array@ SELECT prefix FROM apps",
+
+"getImageNotice" :
+	"@object@ SELECT img_url, id, action_url, action_type FROM imageNotices WHERE app_prefix=@app_prefix:imageNotices.app_prefix@ AND is_active=1",
+
+"getExpireImageNotice" :
+	"@object@ SELECT id, img_url FROM imageNotices WHERE end_time <= '@time:none:@'",
+
+"deleteExpireImageNotice" :
+	"DELETE FROM imageNotices WHERE id IN (@ids:none:@)",
+
+"getAllImageNotice" :
+	"@object@ SELECT * FROM imageNotices ORDER BY created ASC",
+
+"deleteImageNotice" :
+	"DELETE FROM imageNotices WHERE id=@id:imageNotices.id@",
+
+"activeImageNotice" :
+	"UPDATE imageNotices SET is_active=@is_active:imageNotices.is_active@ WHERE id=@id:imageNotices.id@",
+
+"saveReport" :
+	"INSERT INTO reports (title, app_prefix, app_version, os_version, contents, contact, user_data, created, platform)
+	VALUES (
+	@title:reports.title@,
+	@prefix:reports.app_prefix@,
+	@appVer:reports.app_version@,
+	@osVer:reports.os_version@,
+	@contents:reports.contents@,
+	@contact:reports.contact@,
+	@user_data:reports.user_data@,
+	@created:reports.created@,
+	@platform:reports.platform@
+	)",
+
+"parseSNS" :
+	"INSERT INTO parseSNS (app_prefix, platform, app_arn) VALUES (
+	@app_prefix:parseSNS.app_prefix@,
+	@platform:parseSNS.platform@,
+	@app_arn:parseSNS.app_arn@
+	)",
+
+"getParseSNSJob" :
+	"@recordObject@ SELECT * FROM parseSNS",
+
+"deleteParseSNSJob" :
+	"DELETE FROM parseSNS WHERE id=@id:parseSNS.id@",
+
+"savePushJobOnDB" :
+	"INSERT INTO remotePush (@insert:none:@) VALUES (@value:none:@)",
+
+"getPushJob" :
+	"@recordObject@ SELECT * FROM remotePush",
+
+"deletePushJob" :
+	"DELETE FROM remotePush WHERE id=@id:remotePush.id@"
+}

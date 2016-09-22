@@ -1,0 +1,33 @@
+KEY	en_US	ko_KR	ja_JP	zh_CN	de_DE	ru_RU	fr_FR	es_ES	pt_PT
+평점주기	Rate us!	평점주기	評価 ください！	利率我们！	Bewerten	Оценить нам! 	Évaluez-nous! 	Rate us!	Classifique-nos!
+평점 및 리뷰를 작성해 주시면 힌트 3개를 드려요.	Rate us and write a review and receive 3 hints!	평점 및 리뷰를 작성해 주시면 힌트 3개를 드려요.	うちらを評価し、ビューを書いて3つのヒントをもらって！	写评论和接收3提示！	Bei Bewertung und Review bekommst du 3 Tipps.	Оцените нас и получите 3 намека!	Evaluez-nous et recevez 3 indices !	¡Evalúanos y recibe 3 pistas!	Nos avalie e receba 3 dicas!
+아니요	No thanks.	아니요	要らない	不，谢谢。	Nein	Нет, спасибо.	Non merci. 	No, gracias. 	Não, obrigado. 
+평점주기	Rate us!	평점주기	評価 ください！	利率我们！	Bewerten	Оценить нам! 	Évaluez-nous! 	Rate us!	Classifique-nos! 
+힌트 부족	No hints available.	힌트 부족	提供できるヒントはない	没有可用的提示。	Zu wenig Tipps	Без подсказок доступны. 	Pas d'indices disponibles. 	No hay consejos disponibles. 	Não há sugestões disponíveis. 
+힌트가 부족합니다.	You have no hints available.	힌트가 부족합니다.	あなたは使用可能なヒントを持ってない	你有没有可用的提示。	Tipps öffnen sich nicht, da du zu wenig Tipps hast.	У вас нет подсказок доступные.	Vous n'avez pas d'indices disponibles.	No hay consejos disponibles. 	Você não tem sugestões disponíveis. 
+확인	Check	확인	チェックして	查	Bestätigen	проверять	Vérifier	Check	Verificar 
+구매 성공	Purchase success	구매 성공	お支払いは完了	购买成功	Kauf erfolgreich	Покупка успех 	Achetez succès 	Compra éxito 	Compre sucesso
+정상적으로 구매했습니다.	Purchase successfully completed.	정상적으로 구매했습니다.	お支払いが無事に完了しました。	购买成功完成。	Kauf war erfolgreich.	Покупка успешно завершена. 	Achat complété avec succès. 	Compra completado con éxito. 	Compra concluída com sucesso. 
+구매 취소	Cancel Purchase	구매 취소	払い戻し	取消购买	Kauf abbrechen	Отменить Покупка	Annuler Acheter 	Compra cancelada.	Cancelar compra 
+구매를 취소했습니다.	Purchase canceled.	구매를 취소했습니다.	お支払いキャンセル	购买注销。	Kauf wurde abgebrochen.	Покупка отменен.	Achat annulé. 	Compra cancelada.	Compra cancelada. 
+구매 실패	Purchase failure	구매 실패	お支払い失敗	购买失败	Kauf fehlgeschlagen	Покупка не удалось.	Achat échoué.	fracaso Compra	Falha de Compra 
+구매에 실패했습니다.	Purchase failed.	구매에 실패했습니다.	お支払いが失敗しました。	购买失败。	Kauf wurde fehlgeschlagen	Покупка не удалось.	Achat échoué.	Compra falló. 	Compra falhou. 
+웁스	Oops!	이런	おっと！	哎呀!	Ups	Oops!	Oops!	¡Huy! 	Ops! 
+제대로 접지 못했군요. 어려울 땐 힌트를 사용해보세요.	You didn't quite get it right. Use a hint if you need a little help :)	제대로 접지 못했군요. 어려울 땐 힌트를 사용해보세요.'	あなたはそれが権利を取得しませんでした。あなたは少しの助けが必要な場合は、ヒントを使用:)	你并没有完全得到它的权利。如果你需要一点点帮助使用提示:)	Nicht ganz richtig. Wenn es zu schwer ist, versuche es mit Tipps.	Вы не получите это право. Используйте подсказку, если вам нужно немного помочь :)	Vous ne l'avez pas droit. Utilisez hints si vous avez besoin d'un peu d'aide :)	No tenías bastante hacerlo bien. Utilice un consejo: si usted necesita un poco de ayuda :) 	Você não entendeu direito. Use uma dica, se você precisa de um pouco de ajuda :)
+리셋	Reset	처음부터 다시접기	リセット	刷新	Zurücksetzen	сброс	Remettre	Reajustar 	Restabelecer
+되돌리기	Undo	한번 되돌리기	アンドゥ	退后	Rückgängig	расстегивать	Annuler	Deshacer	Desfazer
+랭킹	Leaderboard	랭킹	リーダーボード	指导板	Rangliste	Leaderboard	Leaderboard	Leaderboard	Leaderboard
+랭킹은 아직 준비 중입니다. 곧 찾아뵙겠습니다.	Leaderboard is coming soon.	랭킹은 아직 준비 중입니다. 곧 찾아뵙겠습니다.	リーダーボードがすぐに商品されます。	指导板马上刚要来了	Die Rangliste wird vorbereitet. Bald sind wir soweit.	Leaderboard в ближайшее время.	Leaderboard est pour bientôt.	Leaderboard estará disponible en breve.	Leaderboard está chegando.
+이 챕터에 도전 하려면 더 많은 별들을 모아야 합니다. 모든 스테이지를 완벽하게 클리어 해봐요!	You need more stars to unlock this chapter. Clear all stages perfectly.	이 챕터에 도전하려면 더 많은 별을 모아야 해요. 전 단계에 모든 스테이지를 완벽하게 클리어해보세요!	このチャプターを解除するためには星がもっと必要です。すべてのステージを完璧にクリアしてください。	你需要更多的星去解锁这个关门。 把所有的关门赢完。	Für diesen Chapter brauchst du mehr Sterne. Erledige alle Stufen perfekt!	Вы нуждаетесь в большем количестве звезд, чтобы разблокировать эту главу. Очистите все этапы отлично. 	Vous avez besoin de plus d'étoiles pour débloquer ce chapitre. Terminez toutes les étapes parfaitement.	Usted necesita más estrellas para desbloquear este capítulo. Pase todas las etapas perfectamente.	Você precisa de mais estrelas para desbloquear esse capitulo. Termine todas as fases perfeitamente. 
+잠김	Lock	잠김	ロック	锁	Gesperrt	запертый	Fermé	Bloqueado	Trancado
+게임종료	Quit Game	게임종료	ゲーム終了	离开游戏	Spiel beenden	Выйти из игры	Quitter le jeu	Salir del juego	Sair do Jogo
+게임을 종료하시겠습니까?	Do you want to quit?	게임을 종료하시겠습니까?	ゲームを終了しますか？	你要退出吗？	Wollen Sie aufhören wollen?	Вы хотите выйти?	Voulez-vous arrêter de fumer?	Quieres Salir del juego?	Você quer sair?
+취소	Cancel	취소	キャンセル	取消	Stornieren	отменить	Annuler	Cancelar	Cancelar
+평점 및 리뷰를 작성해 주시면 저희에게 도움이 됩니다.	Your review is our Energy.	좋은 리뷰로 개발자에게 힘을 주세요!	レビューは私たちのエネルギーである。	您的评论是我们的能源。	Ihre  bewertungen ist unser Energy.	Ваш отзыв наша энергия.	Votre avis est notre énergie.	Tu opinión es nuestra energía.	Sua opinião é a nossa energia.
+게임 클리어	Stage cleared	스테이지 클리어	ステージクリア	舞台被清除	bühne klare	Стадия очищается	Étape clair	Etapa despejado	Stage apuradas
+이미 획득한 별 {0}개로 클리어했습니다.	Please, try again to make it perfect!	조금만 더 노력해서 별3개를 얻어 보세요!	それを完璧にして再度お試しください！	请再次尝试让它完美！	Bitte versuchen Sie es erneut, um es perfekt!	Пожалуйста, попробуйте еще раз, чтобы сделать его прекрасным!	S'il vous plaît, essayez à nouveau de le rendre parfait!	Por favor, inténtalo de nuevo para que sea perfecto!	Por favor, tente novamente para torná-lo perfeito!
+재도전	Retry	재도전	リトライ	重试	wiederholen	попробуйте еще раз	refaire	Reintente	tentar novamente
+메인으로	Go to main	메인으로	主に行く	转到主	Zum Haupt	Перейти на главную	aller à principale	Ir a principal	Ir para principal
+축하합니다	Congratulations!	축하합니다	おめでとう！	恭喜！	Herzlichen Glückwunsch!	Поздравляем!	Félicitation!	¡Enhorabuena!	Parabéns!
+새로운 스테이지가 열렸습니다!	Wow, you unlocked new chapter.	새로운 챕터가 열렸습니다!	あなたは新しい章をアンロック。	你解锁新的篇章。	Wow, neues Kapitel entriegelt Sie.	вы разблокирован новую главу.	Vous avez débloqué nouveau chapitre.	le abrió el nuevo capítulo.	Uau, você desbloqueado novo capítulo.
+스테이지 이동	Move to new chapter	새로운 챕터로 이동	新しい章に移動	移动到新的篇章	Umzug in neue Kapitel	Переместить в новой главы	Déplacez à nouveau chapitre	Mover a nuevo capítulo	Mover-se para novo capítulo
